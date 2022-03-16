@@ -1,0 +1,82 @@
+.my-class {
+  border: 10px solid rgb(128, 30, 0);
+  padding: 10px;
+  display:block;
+  margin:auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 75%;
+  height: 50%;
+  box-sizing: border-box;
+  text-align: center;
+  box-sizing: border-box;
+  background-image: url("https://static.wikia.nocookie.net/gods_and_demons/images/f/f0/Inferno.jpg/revision/latest?cb=20201216040322");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.cat-photo {
+  border: 10px solid rgb(128, 30, 0);
+  padding: 10px;
+  background-color: orange;
+  display:block;
+  margin:auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 75%;
+  height: 50%;
+  box-sizing: border-box;
+  text-align: center;
+  box-sizing: border-box;
+  background-image: url("https://angelstarspeaks.files.wordpress.com/2012/02/flame-of-fire1.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-face: ('http://fonts.cdnfonts.com/css/iron-maiden');
+
+}
+.new-class {
+  color: purple;
+  font-size: large; 
+}
+.centered-image {
+  border: 10px solid rgb(128, 30, 0);
+  padding: 10px;
+  background-color: orange;
+  display:block;
+  margin:auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 75%;
+  height: 50%;
+  box-sizing: border-box;
+  margin:auto;
+  width: 50%;
+  height: 50%;
+  display:block;
+}
+sidebar {
+float:right;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color:brown;
+}
+body {
+  background-image: url("https://c.tenor.com/h67fjCMSvGUAAAAC/fire-flames.gif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h1{
+  font-size: large;
+  font-family: 'Iron Maiden', sans-serif;
+  color: rgb(178, 156, 34);
+                                                
+}
+h2{
+  font-size: large;
+  font-family: 'Iron Maiden', sans-serif;
+  color: rgb(178, 156, 34);
+}
+       
+<link href="http://fonts.cdnfonts.com/css/iron-maiden" rel="stylesheet">
